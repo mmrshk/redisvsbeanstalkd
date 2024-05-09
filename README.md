@@ -35,7 +35,7 @@ Subscribe time (average): 0.000035 seconds
 Publish time (average):  0.000019 seconds
 
 Looking at this data we can say that time slightly increases.
-g
+
 ---
 
 Based on the provided data, we can make the following observations:
